@@ -1,0 +1,12 @@
+.loader {
+  /* display: block;
+  margin-right:50%;
+  margin-left: 50%; */
+  position: fixed;
+  top: 50%;
+  right: 50%;
+  left: 48%;
+
+  width: 100px;
+  height: 100px;
+}
